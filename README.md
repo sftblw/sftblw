@@ -4,6 +4,5 @@
 
 ## Contacts
 
-- Mastodon (main): [@sftblw@twingyeo.kr](https://twingyeo.kr/@sftblw)
-- Twitter: **no**.
+- [@sftblw@twingyeo.kr](https://twingyeo.kr/@sftblw)
 - [more social accounts](https://sftblw.moe/social/)
