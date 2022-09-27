@@ -5,7 +5,7 @@
 
 | stats | languages |
 |-------|-----------|
-| [![sftblw's GitHub stats](https://github-readme-stats.vercel.app/api?username=sftblw&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Top Languages by sftblw](https://github-readme-stats.vercel.app/api/top-langs/?username=sftblw&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
+| [![sftblw's GitHub stats](https://github-readme-stats.vercel.app/api?username=sftblw&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Top Languages by sftblw](https://github-readme-stats.vercel.app/api/top-langs/?username=sftblw&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) |
 
 ## Contacts
 
