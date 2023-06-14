@@ -9,5 +9,5 @@
 
 ## Contacts
 
-- [ActivityPub/WebFinger @sftblw@twingyeo.kr](https://twingyeo.kr/@sftblw)
+- [ActivityPub/WebFinger @sftblw@don.naru.cafe](https://don.naru.cafe/@sftblw)
 - [more social accounts](https://sftblw.moe/social/)
